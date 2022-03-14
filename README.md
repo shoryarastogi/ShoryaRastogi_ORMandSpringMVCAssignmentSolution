@@ -1,4 +1,4 @@
-# RajParekh_ORMandSpringMVCAssignmentSolution-
+# RajParekh_ORMandSpringMVCAssignmentSolution
 
 This Repo Contains Solution to Graded Assignment 5 ORM and Spring MVC
 
