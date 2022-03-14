@@ -8,4 +8,6 @@ The Project Contains Separate Packages for Model, Controller, Data Access Object
 
 The WEB-INF contains the Spring Servlet file and web.xml along with the views folder consisting .jsp files.
 
-I have added the Snapshots of all the CRUD Operations on the Project in the SnapShots Folder with Numbering from 1-7
+I have added the Snapshots of all the CRUD Operations on the Project in the SnapShots Folder with Numbering from 1-7 in 
+
+There is a PDF of Snapshots named "Snapshots" and I've also uploaded the .png files too for reference.!
